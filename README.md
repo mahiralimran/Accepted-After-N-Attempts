@@ -59,3 +59,10 @@ If it scares you — even better.
 ⭐ Star it if you've ever said:
 *"this should pass"* …and it didn’t.
 
+## 📜 License
+
+This project is licensed under the **MIT License** —
+which basically means:
+
+* do whatever you want
+* just don’t pretend you wrote it first
