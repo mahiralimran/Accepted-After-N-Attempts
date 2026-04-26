@@ -1,4 +1,4 @@
-# Competitive Programming Archive
+# Solved Problems Archive
 
 ### *a.k.a. "How many times can one person get WA?"*
 
