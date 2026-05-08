@@ -16,6 +16,8 @@ Problems are organized by platform and difficulty (because pretending to be orga
 ## 🧩 Platforms Covered
 
 * Codeforces
+* Beecrowd
+* Codechef
 * LeetCode
 * AtCoder
 * Random problems that ruined my day
