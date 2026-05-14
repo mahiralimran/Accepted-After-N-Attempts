@@ -6,7 +6,7 @@ int main()
 	int a,b;
 	cin>>a>>b;
 	
-	if(abs(a-b)<=1){
+	if(abs(a-b) <= 1 && (a + b) > 0){
 		cout<<"YES"<<endl;
 	}
 	else{
